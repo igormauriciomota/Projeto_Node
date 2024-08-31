@@ -1,0 +1,15 @@
+{
+  "name": "mediapp",
+  "version": "1.0.0",
+  "description": "Mini Projeto de um consultorio Medico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Mota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mediapp": "file:"
+  }
+}
